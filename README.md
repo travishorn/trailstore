@@ -1,5 +1,9 @@
 #trailstore
 
+[![Build Status](https://travis-ci.org/travishorn/trailstore.svg?branch=master)](https://travis-ci.org/travishorn/trailstore)
+[![Code Climate](https://codeclimate.com/github/travishorn/trailstore/badges/gpa.svg)](https://codeclimate.com/github/travishorn/trailstore)
+[![Test Coverage](https://codeclimate.com/github/travishorn/trailstore/badges/coverage.svg)](https://codeclimate.com/github/travishorn/trailstore/coverage)
+
 > Document store with history. See data at any point in time.
 
 ## WARNING
