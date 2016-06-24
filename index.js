@@ -1,7 +1,7 @@
 'use strict';
 
 var trailstore = {
-  db: require('./lib/db'),
+  connect: require('./lib/connect'),
 };
 
 module.exports = trailstore;
