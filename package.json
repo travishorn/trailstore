@@ -1,6 +1,6 @@
 {
   "name": "trailstore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Document store with history. See data at any point in time.",
   "main": "index.js",
   "scripts": {
