@@ -22,12 +22,13 @@
   },
   "homepage": "https://github.com/travishorn/trailstore",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-istanbul": "^0.10.2",
-    "gulp-jscs": "^3.0.1",
-    "gulp-jshint": "^1.11.2",
-    "gulp-mocha": "^2.1.3",
-    "jshint-stylish": "^2.0.1",
-    "should": "^7.1.1"
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-jscs": "^4.0.0",
+    "jshint": "^2.9.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-mocha": "^2.2.0",
+    "jshint-stylish": "^2.2.0",
+    "should": "^9.0.2"
   }
 }
